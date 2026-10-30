@@ -5,4 +5,4 @@ nltk
 matplotlib
 seaborn
 joblib
-flask
+streamlit
